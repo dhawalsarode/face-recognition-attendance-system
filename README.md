@@ -70,24 +70,30 @@ face-recognition-attendance/
    cd face-recognition-attendance-system
 
 2.Install dependencies:
+   ```bash
   pip install -r requirements.txt
+   ```
 
 3.Run face registration:
+```bash
   python app/register_faces.py
+   ```
 
 4.Start recognition and logging:
+```bash
   python app/recognize_faces.py
+```
 
-🧠 Project Use Cases
--Classroom attendance systems
--Office/workplace access logging
--Event check-ins
+## 🧠 Project Use Cases
+*Classroom attendance systems
+*Office/workplace access logging
+*Event check-ins
 
-✍️ Author
+## ✍️ Author
 Dhawal Sarode
 B.Tech CSE, Amity University (2021–2025)
 
-📌 Acknowledgements
+## 📌 Acknowledgements
 Built based on concepts from Udemy Face Recognition course
 Utilizes face_recognition by @ageitgey
 
