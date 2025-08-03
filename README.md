@@ -85,9 +85,10 @@ face-recognition-attendance/
 ```
 
 ## 🧠 Project Use Cases
-*Classroom attendance systems
-*Office/workplace access logging
-*Event check-ins
+
+-Classroom attendance systems
+-Office/workplace access logging
+-Event check-ins
 
 ## ✍️ Author
 Dhawal Sarode
