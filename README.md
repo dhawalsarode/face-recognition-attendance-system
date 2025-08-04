@@ -42,7 +42,7 @@ python recognize_faces.py        # Start recognition
 
 ![Encoding Screenshot](backend/screenshots/encoding.png)
 ![Recognition Screenshot](backend/screenshots/recognized.png)
-📹 `backend/recording.mp4`
+📹 [Watch CLI Demo (MP4)](backend/recording.mp4)
 
 ---
 
@@ -65,7 +65,7 @@ Visit `http://127.0.0.1:5000` in your browser.
 #### 🌟 Preview
 
 ![Web Screenshot](web/screenshots/web-preview.png)
-📹 `web/web-recording.mp4`
+📹 [Watch Web Demo (MP4)](web/web-recording.mp4)
 
 ---
 
