@@ -1,4 +1,7 @@
 # 📷 Face Recognition Attendance System
+![Python](https://img.shields.io/badge/Python-3.13-blue) 
+![Flask](https://img.shields.io/badge/Flask-Web%20App-blue) 
+![License](https://img.shields.io/badge/License-MIT-green)
 
 An automated real-time attendance system using face recognition, implemented in two versions:
 
